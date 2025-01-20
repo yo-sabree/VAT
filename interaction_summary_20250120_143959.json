@@ -1,0 +1,70 @@
+{
+    "5": {
+        "total_time": 0.27,
+        "interactions": {
+            "remote": 1,
+            "clock": 2,
+            "toilet": 1,
+            "cup": 3,
+            "chair": 1
+        }
+    },
+    "6": {
+        "total_time": 0.23,
+        "interactions": {
+            "clock": 2,
+            "toilet": 1,
+            "cup": 3,
+            "chair": 1
+        }
+    },
+    "7": {
+        "total_time": 0.17,
+        "interactions": {
+            "clock": 2,
+            "cup": 1,
+            "chair": 2
+        }
+    },
+    "3": {
+        "total_time": 0.73,
+        "interactions": {
+            "cup": 1,
+            "chair": 21
+        }
+    },
+    "4": {
+        "total_time": 0.7,
+        "interactions": {
+            "chair": 21
+        }
+    },
+    "8": {
+        "total_time": 0.43,
+        "interactions": {
+            "cup": 1,
+            "chair": 11,
+            "clock": 1
+        }
+    },
+    "9": {
+        "total_time": 0.47,
+        "interactions": {
+            "chair": 14
+        }
+    },
+    "1": {
+        "total_time": 0.13,
+        "interactions": {
+            "toilet": 1,
+            "cup": 3
+        }
+    },
+    "2": {
+        "total_time": 0.13,
+        "interactions": {
+            "toilet": 1,
+            "cup": 3
+        }
+    }
+}
